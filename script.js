@@ -1,2 +1,2 @@
 alert("I'm back")
-<!--Adding a comment to js file-->
+//Adding a comment to js file
